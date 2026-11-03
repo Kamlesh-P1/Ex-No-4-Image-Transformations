@@ -143,30 +143,38 @@ plt.axis('off')
 ## Output
 ### i) Input Iamge
 
+<img width="330" height="458" alt="Screenshot 2026-11-03 135244" src="https://github.com/user-attachments/assets/7075118c-1708-45c3-851d-9381f6ad4aeb" />
+
 
 
 ### ii) Image Translation
 
+<img width="326" height="449" alt="Screenshot 2026-11-03 135501" src="https://github.com/user-attachments/assets/bbb82198-d936-4078-b6ad-8ee54f5fb867" />
 
 
 ### iii) Image Scaling
 
+<img width="588" height="347" alt="Screenshot 2026-11-03 135529" src="https://github.com/user-attachments/assets/2b3f1df5-3e53-446b-85dc-59a9e21ebb95" />
 
 
 ### iv) Image Shearing
 
+<img width="347" height="463" alt="Screenshot 2026-11-03 135544" src="https://github.com/user-attachments/assets/37640d0a-3d88-49ea-adbe-e44823477e8a" />
 
 
 ### v) Image Reflection
 
+<img width="335" height="462" alt="Screenshot 2026-11-03 135603" src="https://github.com/user-attachments/assets/d5cf05a6-a726-4add-9c58-14f1aa66a3ce" />
 
 
 ### vi) Image Rotation
 
+<img width="356" height="465" alt="Screenshot 2026-11-03 135638" src="https://github.com/user-attachments/assets/20b5ab64-afc9-425d-843c-97b5ef4721ef" />
 
 
 ### vii) Image Cropping
 
+<img width="567" height="459" alt="Screenshot 2026-11-03 135656" src="https://github.com/user-attachments/assets/d3c5b09b-48b4-40bf-ad78-5bcf50084929" />
 
 
 ## Result
