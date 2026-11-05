@@ -44,9 +44,9 @@ Crop a specific region of the image and save the cropped image.
 
 ## Program
 
-**Developed By:** SHRIVARSHAN P G
+**Developed By:** KAMLESH P
 
-**Register Number:** 212225240146
+**Register Number:** 212225240067
 
 ## i) Image Translation
 
